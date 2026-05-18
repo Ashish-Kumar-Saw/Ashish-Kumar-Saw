@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Ashish%20Kumar%20Saw&fontSize=45&animation=fadeIn&fontColor=00F7FF&desc=AI%20Engineer%20%7C%20LLM%20Developer%20%7C%20Building%20AI%20Copilots&descAlignY=65"/>
 
-<h1 align="center">Hi 👋, I'm Ashish Kumar Saw</h1>
-
-<h3 align="center">
-🚀 AI Engineer | LLM Developer | Machine Learning Engineer
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Developer;Building+AI+Copilots;Machine+Learning+Specialist;Open+Source+Contributor" />
 </p>
